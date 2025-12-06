@@ -1,0 +1,5 @@
+# torch включен в unsloth
+datasets
+evaluate
+numpy
+unsloth[cu121-full]
